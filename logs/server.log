@@ -1,23 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [145] using StatReload
-INFO:     Started server process [147]
+INFO:     Started reloader process [187] using StatReload
+INFO:     Started server process [189]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:43254 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:43262 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43272 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43262 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43272 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43294 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43284 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43296 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:43294 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:47254 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:47268 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:47254 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:47282 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:35730 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:35746 - "GET /programs HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:35762 - "GET /testimonials HTTP/1.1" 404 Not Found
-INFO:     172.20.0.1:35730 - "GET /programs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43814 - "GET /programs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43828 - "GET /testimonials HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43842 - "GET /programs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43858 - "GET /testimonials HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43814 - "GET /programs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43872 - "GET /testimonials HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43828 - "GET /programs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43876 - "GET /testimonials HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43892 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:43914 - "GET /programs HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43914 - "GET /testimonials HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:43914 - "GET /testimonials HTTP/1.1" 404 Not Found
+INFO:     172.20.0.1:46438 - "GET /programs HTTP/1.1" 404 Not Found
